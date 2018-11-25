@@ -1,0 +1,17 @@
+body {
+    margin: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.card-header {
+    background-color: lightblue;
+    color: midnightblue;
+}
+
+.jumbotron {
+    background-color: lightblue;
+    color: midnightblue;
+}
